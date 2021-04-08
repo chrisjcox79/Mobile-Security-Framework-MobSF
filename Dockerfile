@@ -1,5 +1,5 @@
 # Base image
-FROM ubuntu:20.04
+FROM ubuntu:rolling
 
 # Labels and Credits
 LABEL \
