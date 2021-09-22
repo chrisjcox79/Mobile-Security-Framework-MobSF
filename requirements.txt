@@ -19,7 +19,7 @@ asn1crypto==1.4.0
 oscrypto==1.2.1
 distro==1.5.0
 IP2Location==8.5.1
-lief==0.10.1
+lief==0.11.0
 http-tools==1.1.1
 libsast==1.3.5
 # Do not update the following
